@@ -12,4 +12,4 @@
 | Golang | | 2020-08-02 | 2020-08-02 | Pending |
 
 ### Log
-- Init repo
+- 2020-08-02 Initial repo
